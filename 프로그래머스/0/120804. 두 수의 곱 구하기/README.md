@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 27일 10:32:20
+2025년 05월 27일 10:32:33
 
 ### 문제 설명
 
@@ -27,8 +27,8 @@
 <h4>제한사항</h4>
 
 <ul>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0 ≤ </font></font><code>num1</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">≤ 100</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0 ≤ </font></font><code>num2</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">≤ 100</font></font></li>
+<li>0 ≤ <code>num1</code> ≤ 100</li>
+<li>0 ≤ <code>num2</code> ≤ 100</li>
 </ul>
 
 <hr>
@@ -36,20 +36,20 @@
 <h4>입출력 예</h4>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">숫자1</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">숫자2</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">결과</font></font></th>
+<th>num1</th>
+<th>num2</th>
+<th>result</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12</font></font></td>
+<td>3</td>
+<td>4</td>
+<td>12</td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">27</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">19</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">513</font></font></td>
+<td>27</td>
+<td>19</td>
+<td>513</td>
 </tr>
 </tbody>
       </table>
