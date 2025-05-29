@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 4.17 MB, 시간: 0.02 ms
+메모리: 4.2 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 28일 16:49:29
+2025년 05월 29일 17:27:53
 
 ### 문제 설명
 
@@ -32,17 +32,17 @@
 <h4>입출력 예</h4>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">도착</font></font></th>
-<th style="text-align: center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">반품</font></font></th>
+<th>arr</th>
+<th style="text-align: center">return</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[1,2,3,4]</font></font></td>
-<td style="text-align: center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2.5</font></font></td>
+<td>[1,2,3,4]</td>
+<td style="text-align: center">2.5</td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[5,5]</font></font></td>
-<td style="text-align: center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5</font></font></td>
+<td>[5,5]</td>
+<td style="text-align: center">5</td>
 </tr>
 </tbody>
       </table>
