@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 3.73 MB, 시간: 0.02 ms
+메모리: 3.69 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 02일 15:03:19
+2025년 06월 02일 15:05:54
 
 ### 문제 설명
 
@@ -44,20 +44,20 @@
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">절대적</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">손짓</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">결과</font></font></th>
+<th>absolutes</th>
+<th>signs</th>
+<th>result</th>
 </tr>
 </thead>
         <tbody><tr>
 <td><code>[4,7,12]</code></td>
 <td><code>[true,false,true]</code></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9</font></font></td>
+<td>9</td>
 </tr>
 <tr>
 <td><code>[1,2,3]</code></td>
 <td><code>[false,false,true]</code></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0</font></font></td>
+<td>0</td>
 </tr>
 </tbody>
       </table>
