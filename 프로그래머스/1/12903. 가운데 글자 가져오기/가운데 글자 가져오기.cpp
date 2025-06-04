@@ -7,10 +7,10 @@ string solution(string s) {
       string answer = "";
  
     int len = s.length();
-   int x =(len)/2;
-     char mid = s[x];
+
+     char mid = s[len/2];
     if(len%2==0){
-        char mid0 = s[x-1];
+        char mid0 = s[len/2-1];
         answer+=mid0;
         answer+=mid;
         
