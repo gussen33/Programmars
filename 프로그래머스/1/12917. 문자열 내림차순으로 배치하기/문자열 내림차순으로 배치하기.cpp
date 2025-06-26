@@ -9,8 +9,3 @@ string solution(string s) {
     return s;
 }
 
-int main() {
-    string s = "Zbcdefg";
-    cout << solution(s) << endl;  // 출력: gfedcbZ
-    return 0;
-}
