@@ -4,10 +4,13 @@
 using namespace std;
 
 int solution(int n) {
-    int x[n-1];
-    if(x%2==0){
-        answer+=answer;
-    }
     int answer = 0;
+    for(int i = 1 ; i <=n ; i++)
+    {
+        if(i%2==0)
+        {
+            answer+=i;
+        }
+    }
     return answer;
 }
