@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 3.81 MB, 시간: 0.01 ms
+메모리: 4.15 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,55 +16,55 @@
 
 ### 제출 일자
 
-2025년 05월 28일 11:35:46
+2025년 07월 04일 09:17:08
 
 ### 문제 설명
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">정수 배열 </font></font><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">가 매개변수로 주어집니다. </font></font><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.</font></font></p>
+<p>정수 배열 <code>numbers</code>가 매개변수로 주어집니다. <code>numbers</code>의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.</p>
 
 <hr>
 
-<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">제한사항</font></font></h5>
+<h5>제한사항</h5>
 
 <ul>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0 ≤ </font></font><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">의 원소 ≤ 1,000</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1 ≤ </font></font><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">의 길이 ≤ 100</font></font></li>
-<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다.</font></font></li>
+<li>0 ≤ <code>numbers</code>의 원소 ≤ 1,000</li>
+<li>1 ≤ <code>numbers</code>의 길이 ≤ 100</li>
+<li>정답의 소수 부분이 .0 또는 .5인 경우만 입력으로 주어집니다. </li>
 </ul>
 
 <hr>
 
-<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">입출력 예</font></font></h5>
+<h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">숫자</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">결과</font></font></th>
+<th>numbers</th>
+<th>result</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">5.5</font></font></td>
+<td>[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]</td>
+<td>5.5</td>
 </tr>
 <tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">94.0</font></font></td>
+<td>[89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99]</td>
+<td>94.0</td>
 </tr>
 </tbody>
       </table>
 <hr>
 
-<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">입출력 예 설명</font></font></h5>
+<h5>입출력 예 설명</h5>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">입출력 예 #1</font></font></p>
+<p>입출력 예 #1</p>
 
 <ul>
-<li><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">의 원소들의 평균 값은 5.5입니다.</font></font></li>
+<li><code>numbers</code>의 원소들의 평균 값은 5.5입니다.</li>
 </ul>
 
-<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">입출력 예 #2</font></font></p>
+<p>입출력 예 #2</p>
 
 <ul>
-<li><code>numbers</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">의 원소들의 평균 값은 94.0입니다.</font></font></li>
+<li><code>numbers</code>의 원소들의 평균 값은 94.0입니다.</li>
 </ul>
 
 
