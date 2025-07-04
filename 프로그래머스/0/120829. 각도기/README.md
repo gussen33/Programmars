@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 3.74 MB, 시간: 0.01 ms
+메모리: 4.13 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 27일 12:36:38
+2025년 07월 04일 09:08:51
 
 ### 문제 설명
 
@@ -34,7 +34,7 @@
 <h5>제한사항</h5>
 
 <ul>
-<li>0 &lt; <code>angle</code> ≤ 180</li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">0 &lt; </font></font><code>angle</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">≤ 180</font></font></li>
 <li><code>angle</code>은 정수입니다.</li>
 </ul>
 
@@ -43,21 +43,21 @@
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th>angle</th>
-<th>result</th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">각도</font></font></th>
+<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">결과</font></font></th>
 </tr>
 </thead>
         <tbody><tr>
-<td>70</td>
-<td>1</td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">70</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">1</font></font></td>
 </tr>
 <tr>
-<td>91</td>
-<td>3</td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">91</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3</font></font></td>
 </tr>
 <tr>
-<td>180</td>
-<td>4</td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">180</font></font></td>
+<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">4</font></font></td>
 </tr>
 </tbody>
       </table>
@@ -77,7 +77,7 @@
 <li><code>angle</code>이 91이므로 둔각입니다. 따라서 3을 return합니다.</li>
 </ul>
 
-<p>입출력 예 #2</p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">입출력 예 #2</font></font></p>
 
 <ul>
 <li><code>angle</code>이 180이므로 평각입니다. 따라서 4를 return합니다.</li>
