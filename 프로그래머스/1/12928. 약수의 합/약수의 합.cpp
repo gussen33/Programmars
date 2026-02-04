@@ -3,12 +3,17 @@
 
 using namespace std;
 
-int solution(int n) {
+int solution(int n) 
+{
     int answer = 0;
-    for(int x = 1; x<=n; x++){
-       if(n%x==0){
-            answer+=x;
-       }
+    
+    for(int i = 1; i<=n;i++)
+    {
+        if(n%i==0)
+        {
+            answer += n/i;
         }
+    }
+    
     return answer;
 }
