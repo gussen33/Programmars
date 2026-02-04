@@ -4,7 +4,7 @@
 
 ### 성능 요약
 
-메모리: 4.12 MB, 시간: 0.01 ms
+메모리: 4.15 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 29일 14:54:23
+2026년 02월 04일 12:42:39
 
 ### 문제 설명
 
@@ -31,13 +31,13 @@
 <h5>입출력 예</h5>
 <table class="table">
         <thead><tr>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">N</font></font></th>
-<th><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">반품</font></font></th>
+<th>n</th>
+<th>return</th>
 </tr>
 </thead>
         <tbody><tr>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">12345</font></font></td>
-<td><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[5,4,3,2,1]</font></font></td>
+<td>12345</td>
+<td>[5,4,3,2,1]</td>
 </tr>
 </tbody>
       </table>
